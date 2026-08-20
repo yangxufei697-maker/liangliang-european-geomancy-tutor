@@ -1,0 +1,4 @@
+interface:
+  display_name: "European Geomancy Tutor"
+  short_description: "Learn and practice Western geomancy"
+  default_prompt: "Use $european-geomancy-tutor to explain a Western geomancy chart and cite the relevant module."
